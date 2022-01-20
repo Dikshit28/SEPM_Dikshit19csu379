@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T08:19:26.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ly6MNWrbjxbg68vFr0r6" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T08:20:52.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9Ena-zWbHKla3Gg_j5f-" version="16.4.2" type="github">
   <diagram id="S6h30Df84OZ0OpIPssgu" name="Page-1">
     <mxGraphModel dx="1038" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-30" value="Operational Acceptance&lt;br&gt;Can start living in the house&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="210" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzsrkBzken3djIKcfrYe-34" value="Acceptance Document" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HzsrkBzken3djIKcfrYe-34" value="Acceptance Document for owner" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="HzsrkBzken3djIKcfrYe-37" target="HzsrkBzken3djIKcfrYe-38">
@@ -142,7 +142,7 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-37" value="System Test&lt;br&gt;Tesing material and connection" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="210" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzsrkBzken3djIKcfrYe-38" value="Test Summary" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HzsrkBzken3djIKcfrYe-38" value="Test Summary by supervisor" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="HzsrkBzken3djIKcfrYe-43" target="HzsrkBzken3djIKcfrYe-45">
@@ -151,7 +151,7 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-43" value="3D model/ Prototype&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzsrkBzken3djIKcfrYe-45" value="Model Review" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HzsrkBzken3djIKcfrYe-45" value="Model Review by owner/ supervisor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="HzsrkBzken3djIKcfrYe-47" target="HzsrkBzken3djIKcfrYe-49">
@@ -163,7 +163,7 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="HzsrkBzken3djIKcfrYe-49" target="HzsrkBzken3djIKcfrYe-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HzsrkBzken3djIKcfrYe-49" value="Design review" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HzsrkBzken3djIKcfrYe-49" value="Design review by owner/ supervisor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-51" value="Detailed Project Development&lt;br&gt;Floor plan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
