@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T08:06:01.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WJ-D9EQdHQl3sds6lc6d" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T08:07:09.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="X3QYqufr4RMV6IVQvAmd" version="16.4.2" type="github">
   <diagram id="S6h30Df84OZ0OpIPssgu" name="Page-1">
     <mxGraphModel dx="1038" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,9 +205,6 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-69" value="&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="510" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzsrkBzken3djIKcfrYe-70" value="CHANGE CONTROL PROCESS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontStyle=1;strokeColor=default;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="285" y="655" width="365" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="HzsrkBzken3djIKcfrYe-69" target="HzsrkBzken3djIKcfrYe-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="570" as="sourcePoint" />
@@ -226,8 +223,11 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-78" value="&lt;h2&gt;TRAINING&lt;/h2&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;strokeColor=default;fillColor=default;fontStyle=1" connectable="0" vertex="1" parent="HzsrkBzken3djIKcfrYe-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HzsrkBzken3djIKcfrYe-83" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="650" y="640" width="50" height="60" as="geometry" />
+        <mxCell id="HzsrkBzken3djIKcfrYe-89" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=14;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="291" y="640" width="389" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HzsrkBzken3djIKcfrYe-90" value="&lt;span style=&quot;font-weight: 700&quot;&gt;CHANGE CONTROL PROCESS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="655" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
