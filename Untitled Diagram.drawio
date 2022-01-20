@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T08:22:47.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="BNUJVfOrmtqLqYScpWlx" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T08:24:40.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="J2km7Gecu4ieTCxUTqxi" version="16.4.2" type="github">
   <diagram id="S6h30Df84OZ0OpIPssgu" name="Page-1">
     <mxGraphModel dx="1278" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,6 +124,9 @@
         <mxCell id="HzsrkBzken3djIKcfrYe-26" value="Buying Plot/Area for project" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="90" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="HzsrkBzken3djIKcfrYe-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="HzsrkBzken3djIKcfrYe-28" target="HzsrkBzken3djIKcfrYe-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-28" value="Furniture, accessories etc" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="730" y="210" width="100" height="60" as="geometry" />
         </mxCell>
@@ -222,6 +225,9 @@
         </mxCell>
         <mxCell id="HzsrkBzken3djIKcfrYe-90" value="&lt;span style=&quot;font-weight: 700&quot;&gt;CHANGE CONTROL PROCESS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290" y="655" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HzsrkBzken3djIKcfrYe-92" value="Pest Control etc" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="290" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
