@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T17:10:10.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="zmKJZtGReyXSx2xWbnAv" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T07:36:03.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QUqKkYc1-1Dxh8pP2e5K" version="16.4.7" type="github">
   <diagram id="LQ69D8eemHiY_h8oVcqF" name="Page-1">
     <mxGraphModel dx="1278" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,8 +160,14 @@
         <mxCell id="iYVpCpsxszZO10fB_xN_-52" value="Requirements review and approval" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="470" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fuYoSvUfIK-gurPZ5R5v-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iYVpCpsxszZO10fB_xN_-53" target="fuYoSvUfIK-gurPZ5R5v-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iYVpCpsxszZO10fB_xN_-53" value="Cost efficiency&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fuYoSvUfIK-gurPZ5R5v-1" value="Sides" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="370" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
