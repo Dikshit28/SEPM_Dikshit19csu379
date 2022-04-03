@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T05:06:57.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="QDBEWYByWFrU11ZvimPx" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T05:09:02.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="VXXo-F0DhapSXgoQBU8r" version="17.4.0" type="github">
   <diagram id="H6uqhM0-3CGWIc5KhkvJ" name="Page-1">
     <mxGraphModel dx="1278" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,14 +64,11 @@
         <mxCell id="psLkS0gkkFEyziHiSeKL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vb9X0chVH99XzUCDQV8e-82" target="Vb9X0chVH99XzUCDQV8e-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vb9X0chVH99XzUCDQV8e-82" value="Making a model of the shop if needed" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Vb9X0chVH99XzUCDQV8e-82" value="3D model/ Prototype&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-84" value="Construction of the shop" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="414" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Vb9X0chVH99XzUCDQV8e-86" value="Review of the shop for any changes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="525" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vb9X0chVH99XzUCDQV8e-89" target="Vb9X0chVH99XzUCDQV8e-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +82,7 @@
         <mxCell id="Vb9X0chVH99XzUCDQV8e-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vb9X0chVH99XzUCDQV8e-91" target="Vb9X0chVH99XzUCDQV8e-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vb9X0chVH99XzUCDQV8e-91" value="Testing the strength and safety of the shop" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Vb9X0chVH99XzUCDQV8e-91" value="System Test&lt;br&gt;customer base" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-92" value="Documentation of the test report and approval" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
@@ -94,8 +91,8 @@
         <mxCell id="Vb9X0chVH99XzUCDQV8e-93" value="Design documentation and approval" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Vb9X0chVH99XzUCDQV8e-94" value="Documentation and approval of the construction" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="525" y="640" width="120" height="80" as="geometry" />
+        <mxCell id="Vb9X0chVH99XzUCDQV8e-94" value="Model Review by owner/ supervisor&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="525" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vb9X0chVH99XzUCDQV8e-97" target="Vb9X0chVH99XzUCDQV8e-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +106,7 @@
         <mxCell id="Vb9X0chVH99XzUCDQV8e-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vb9X0chVH99XzUCDQV8e-99" target="Vb9X0chVH99XzUCDQV8e-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vb9X0chVH99XzUCDQV8e-99" value="Acceptance by the owner" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Vb9X0chVH99XzUCDQV8e-99" value="Operational acceptance&lt;br&gt;can start selling in the area&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-100" value="Acceptance Documentation and all other legal documentation&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
@@ -121,11 +118,11 @@
         <mxCell id="Vb9X0chVH99XzUCDQV8e-102" value="Enhancement" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1000" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vb9X0chVH99XzUCDQV8e-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vb9X0chVH99XzUCDQV8e-104" target="Vb9X0chVH99XzUCDQV8e-105" edge="1">
+        <mxCell id="psLkS0gkkFEyziHiSeKL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vb9X0chVH99XzUCDQV8e-104" target="psLkS0gkkFEyziHiSeKL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-104" value="Interior designing" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="315" width="120" height="80" as="geometry" />
+          <mxGeometry x="1000" y="315" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-105" value="Stationary supplier chain participation" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="414" width="120" height="80" as="geometry" />
@@ -174,6 +171,9 @@
         </mxCell>
         <mxCell id="Vb9X0chVH99XzUCDQV8e-70" value="Technical Requirements&amp;nbsp;&lt;br&gt;Raw Materials, items&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="525" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="psLkS0gkkFEyziHiSeKL-8" value="Promotion&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="525" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
