@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T05:14:41.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="4Buz5jxBSkui-7G0IjoQ" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T05:15:10.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="eGFt1JacWYPT9x4_KwYm" version="17.4.0" type="github">
   <diagram id="LkDzFpfbwSy2pH1ypYPq" name="Page-1">
     <mxGraphModel dx="1278" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="v1i57e1MyZaDkJ1OwCc9-11" value="Writing / buying script" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="v1i57e1MyZaDkJ1OwCc9-16" value="Approval from MCD regarding area under construction and floors to be built" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="v1i57e1MyZaDkJ1OwCc9-16" value="Requirements review and approval by director and movie board" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="660" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v1i57e1MyZaDkJ1OwCc9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v1i57e1MyZaDkJ1OwCc9-18" target="v1i57e1MyZaDkJ1OwCc9-20" edge="1">
@@ -172,7 +172,7 @@
         <mxCell id="v1i57e1MyZaDkJ1OwCc9-13" value="Functional Requirements&amp;nbsp;&lt;br&gt;location, buget, equipment&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="420" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v1i57e1MyZaDkJ1OwCc9-15" value="Technical Requirements:&lt;br&gt;Actors, script, direction team, camera team, sound team, makeup team&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="v1i57e1MyZaDkJ1OwCc9-15" value="Technical Requirements&amp;nbsp;&lt;br&gt;Cast, spot boy, makeup artist&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="525" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
