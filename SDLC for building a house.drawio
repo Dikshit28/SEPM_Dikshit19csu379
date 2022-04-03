@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T05:21:15.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="zJ_ISUSwII8LezqmSdtt" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T05:23:55.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="iqOV2cIwoR6ier9mgL-d" version="17.4.0" type="github">
   <diagram id="N88fRqQBOQMOm4eH01vv" name="Page-1">
     <mxGraphModel dx="1278" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,14 +37,11 @@
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-4" value="&lt;br&gt;Using Area Under Construction&amp;nbsp;&lt;br&gt;Building Development Estimate" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-8" target="7y25BIzcjMbYV9Ad7kBw-10" edge="1">
+        <mxCell id="IzHZfGezDShvI1KzyOSK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="7y25BIzcjMbYV9Ad7kBw-8" target="7y25BIzcjMbYV9Ad7kBw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-8" value="Functional Requirements:&lt;br&gt;Water, electricity, safety" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="315" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-10" target="7y25BIzcjMbYV9Ad7kBw-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-10" value="Technical Requirements:&lt;br&gt;Labor, Raw Material, Machines&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="420" width="140" height="80" as="geometry" />
@@ -52,20 +49,14 @@
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-12" value="Approval from MCD regarding area under construction and floors to be built" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="530" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-14" target="7y25BIzcjMbYV9Ad7kBw-16" edge="1">
+        <mxCell id="IzHZfGezDShvI1KzyOSK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="7y25BIzcjMbYV9Ad7kBw-14" target="7y25BIzcjMbYV9Ad7kBw-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-14" value="External and Internal Design of the house by an Architect&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-16" target="7y25BIzcjMbYV9Ad7kBw-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-16" value="Review of design by the people who will be living in the house" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-18" target="7y25BIzcjMbYV9Ad7kBw-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-18" value="Detailed Project development plan in accordance with the design" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="530" width="120" height="80" as="geometry" />
@@ -79,20 +70,14 @@
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-20" value="Construction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="524.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-22" target="7y25BIzcjMbYV9Ad7kBw-24" edge="1">
+        <mxCell id="IzHZfGezDShvI1KzyOSK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="7y25BIzcjMbYV9Ad7kBw-22" target="7y25BIzcjMbYV9Ad7kBw-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-22" value="Making a model of the house if needed" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-24" target="7y25BIzcjMbYV9Ad7kBw-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-24" value="Construction of the house" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="414" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7y25BIzcjMbYV9Ad7kBw-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7y25BIzcjMbYV9Ad7kBw-26" target="7y25BIzcjMbYV9Ad7kBw-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-26" value="Review of the house for any changes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="530" width="120" height="80" as="geometry" />
